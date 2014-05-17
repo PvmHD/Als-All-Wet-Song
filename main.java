@@ -36,7 +36,15 @@ public class main {
 			
 		}
 		System.out.println("In the rain, in the rain.");
+		System.out.println("Al's all wet.");
+		{
+		
+		}
+		System.out.println("Oh, why is Al all wet? Oh,");
+		System.out.println("Al's all wet 'cause");
+		System.out.println("He's standing in the rain.");
 	}
+	
+}
 
-	}
 
